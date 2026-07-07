@@ -1,31 +1,30 @@
 <div align="center">
 
-# Hi there, I'm Muhamad Rafli Shidiq 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:2563EB,100:38BDF8&text=Muhamad%20Rafli%20Shidiq&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React.js+Developer;Golang+Backend+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=26\&duration=3000\&pause=1000\&center=true\&vCenter=true\&width=700\&lines=Full+Stack+Developer;React.js+Developer;Golang+Backend+Developer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
+![](https://komarev.com/ghpvc/?username=murashi19\&style=for-the-badge\&color=2563EB)
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 👋 About Me
 
-I'm a **Full Stack Developer** who enjoys building clean, responsive, and scalable web applications.
+I'm **Muhamad Rafli Shidiq**, a **Full Stack Developer** passionate about creating modern, scalable, and user-friendly web applications.
 
-Currently, I'm focusing on:
+My current journey is centered on **React.js** for frontend development and **Golang** for backend development, while continuously strengthening my understanding of software engineering, system design, and clean architecture.
 
-* ⚛️ React.js
-* 🐹 Golang
-* 🧠 Backend Development
-* 🐳 Docker
-* ☁️ REST API Development
-* 📚 Clean Code & Software Architecture
-
-I believe that learning never stops, and I'm always exploring new technologies to become a better software engineer.
+* 💻 Full Stack Web Developer
+* ⚛️ Frontend with React.js
+* 🐹 Backend with Golang
+* 🐳 Learning Docker & DevOps
+* 🌱 Always improving through hands-on projects
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Tech Stack
 
 ### Frontend
 
@@ -53,29 +52,18 @@ I believe that learning never stops, and I'm always exploring new technologies t
 
 ---
 
-## 📈 GitHub Stats
+# 🌱 Currently Learning
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=murashi19&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murashi19&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=murashi19&theme=tokyonight"/>
-
-</p>
+* React.js Best Practices
+* Golang REST API Development
+* Clean Architecture
+* Docker
+* Microservices
+* Software Design Patterns
 
 ---
 
-## 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -85,36 +73,39 @@ I believe that learning never stops, and I'm always exploring new technologies t
 
 ---
 
-## 🏆 GitHub Trophies
+# 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=murashi19&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://raw.githubusercontent.com/murashi19/murashi19/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
----
-
-## 🌱 Currently Learning
-
-* React.js Ecosystem
-* Golang Backend
-* Docker
-* Clean Architecture
-* RESTful API
-* Microservices
+> Generated automatically using GitHub Actions.
 
 ---
 
-## 📫 Connect with Me
+# 🚀 Featured Projects
 
-<p align="left">
+| Project               | Description                                      | Tech               |
+| --------------------- | ------------------------------------------------ | ------------------ |
+| 🛒 E-Commerce App     | Modern e-commerce application with responsive UI | React.js           |
+| 🔐 Authentication CLI | Interactive authentication flow                  | Golang             |
+| 📦 Asset Management   | Dashboard for monitoring company assets          | React.js • Laravel |
+| 🚧 More Projects      | Always building and learning something new       | 🚀                 |
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
 <a href="https://linkedin.com/in/muhamad-rafli-shidiq19">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:muhamadraflishidiq@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </p>
@@ -123,8 +114,8 @@ I believe that learning never stops, and I'm always exploring new technologies t
 
 <div align="center">
 
-### 💡 "Write code that your future self will thank you for."
-
-![](https://komarev.com/ghpvc/?username=murashi19\&style=for-the-badge\&color=blue)
+### 💡 *"Every line of code is an opportunity to learn, improve, and build something meaningful."*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:38BDF8,50:2563EB,100:0F172A"/>
