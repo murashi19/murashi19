@@ -69,7 +69,7 @@ I believe that learning never stops, and I'm always exploring new technologies t
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=murashi19&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=murashi19&theme=tokyonight"/>
 
 </p>
 
