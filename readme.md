@@ -57,9 +57,9 @@ I believe that learning never stops, and I'm always exploring new technologies t
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=murashi19&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murashi19&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -69,7 +69,7 @@ I believe that learning never stops, and I'm always exploring new technologies t
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=murashi19&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -79,7 +79,7 @@ I believe that learning never stops, and I'm always exploring new technologies t
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=murashi19&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -89,7 +89,7 @@ I believe that learning never stops, and I'm always exploring new technologies t
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=murashi19&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -109,11 +109,11 @@ I believe that learning never stops, and I'm always exploring new technologies t
 ## 📫 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/muhamad-rafli-shidiq19">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:muhamadraflishidiq@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -125,6 +125,6 @@ I believe that learning never stops, and I'm always exploring new technologies t
 
 ### 💡 "Write code that your future self will thank you for."
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=for-the-badge\&color=blue)
+![](https://komarev.com/ghpvc/?username=murashi19\&style=for-the-badge\&color=blue)
 
 </div>
